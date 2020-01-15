@@ -31,3 +31,11 @@
     - [AOJ ALDS1 6_A : Counting Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_6a.cpp)
 - パーティション
     - [AOJ ALDS1 6_B : Partition](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_6b.cpp)
+
+#### データ構造
+- スタック
+    - [AOJ ALDS1 3_A : Stack](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_3a.cpp)
+
+#### 探索
+- 線形探索
+    - [AOJ ALDS1 4_A : Linear Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_4a.cpp)
