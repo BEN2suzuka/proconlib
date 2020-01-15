@@ -25,3 +25,5 @@
     - [AOJ ALDS1 2_A : Bubble Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_2a.cpp)
 - 選択ソート
     - [AOJ ALDS1 2_B : Selection Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_2b.cpp)
+- マージソート
+    - [AOJ ALDS1 5_B : Merge Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_5b.cpp)
