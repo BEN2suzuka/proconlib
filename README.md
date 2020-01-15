@@ -16,7 +16,7 @@
 - 幅優先探索 (BFS)
     - [ABC 007 C - 幅優先探索](https://github.com/BEN2suzuka/proconlib/blob/master/AtCoder/abc007c.cpp)
 
-## アルゴリズムとデータ構造
+## AOJ アルゴリズムとデータ構造入門 (ALDS1)
 
 #### 整列
 - 挿入ソート
