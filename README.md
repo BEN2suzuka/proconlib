@@ -23,3 +23,5 @@
     - [AOJ ALDS1 1_A : Insertion Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_1a.cpp)
 - バブルソート
     - [AOJ ALDS1 2_A : Bubble Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_2a.cpp)
+- 選択ソート
+    - [AOJ ALDS1 2_B : Selection Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_2b.cpp)
