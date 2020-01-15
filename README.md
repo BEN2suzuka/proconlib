@@ -35,3 +35,5 @@
 #### 探索
 - 線形探索
     - [AOJ ALDS1 4_A : Linear Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_4a.cpp)
+- 二分探索
+    - [AOJ ALDS1 4_B : Binary Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_4b.cpp)
