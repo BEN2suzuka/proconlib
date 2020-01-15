@@ -3,8 +3,12 @@
 #### 整数
 - 素数判定
     - [AOJ ALDS1 1_C : Prime Numbers](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_1c.cpp)
-- 最大公約数
+- 素因数分解
+    - [ABC 142 D - Disjoint Set of Common Divisors](https://github.com/BEN2suzuka/proconlib/blob/master/AtCoder/abc142d.cpp)
+- 最大公約数 (GCD)
     - [AOJ ALDS1 1_B : Greatest Common Divisor](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_1b.cpp)
+- 最小公倍数 (LCM)
+    - [AOJ NTL 1_C : Least Common Multiple](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/ntl_1c.cpp)
 
 #### 探索
 - DFS (深さ優先探索)
@@ -17,3 +21,5 @@
 #### 整列
 - 挿入ソート
     - [AOJ ALDS1 1_A : Insertion Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_1a.cpp)
+- バブルソート
+    - [AOJ ALDS1 2_A : Bubble Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_2a.cpp)
