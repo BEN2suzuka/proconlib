@@ -11,9 +11,9 @@
     - [AOJ NTL 1_C : Least Common Multiple](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/ntl_1c.cpp)
 
 #### 探索
-- DFS (深さ優先探索)
+- 深さ優先探索 (DFS)
     - [ABC 126 D - Even Relation](https://github.com/BEN2suzuka/proconlib/blob/master/AtCoder/abc126d.cpp)
-- BFS (幅優先探索)
+- 幅優先探索 (BFS)
     - [ABC 007 C - 幅優先探索](https://github.com/BEN2suzuka/proconlib/blob/master/AtCoder/abc007c.cpp)
 
 ## アルゴリズムとデータ構造
@@ -27,3 +27,5 @@
     - [AOJ ALDS1 2_B : Selection Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_2b.cpp)
 - マージソート
     - [AOJ ALDS1 5_B : Merge Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_5b.cpp)
+- 計数ソート
+    - [AOJ ALDS1 6_A : Counting Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_6a.cpp)
