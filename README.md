@@ -29,3 +29,5 @@
     - [AOJ ALDS1 5_B : Merge Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_5b.cpp)
 - 計数ソート
     - [AOJ ALDS1 6_A : Counting Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_6a.cpp)
+- パーティション
+    - [AOJ ALDS1 6_B : Partition](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ/alds1_6b.cpp)
