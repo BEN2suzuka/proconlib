@@ -1,4 +1,5 @@
 // ABC 142 D
+// C++14
 #include <bits/stdc++.h>
 using namespace std;
 

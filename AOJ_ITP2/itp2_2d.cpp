@@ -1,4 +1,5 @@
 // ITP2 2_D
+// C++
 #include <bits/stdc++.h>
 using namespace std;
 

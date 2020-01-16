@@ -1,4 +1,5 @@
 // NTL 1_C
+// C++
 #include <bits/stdc++.h>
 using namespace std;
 

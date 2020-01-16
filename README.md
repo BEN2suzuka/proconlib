@@ -42,6 +42,12 @@
 - [4_C : Swap](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4c.cpp)
 - [4_D : Unique](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4d.cpp)
 
+#### 順列
+- [5_A : Sorting Pairs](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_5a.cpp)
+- [5_B : Sorting Tuples](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_5b.cpp)
+- [5_C : Permutation](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_5c.cpp)
+- [5_D : Permutation Enumeration](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_5d.cpp)
+
 ## AOJ アルゴリズムとデータ構造入門 (ALDS1)
 
 #### 整列

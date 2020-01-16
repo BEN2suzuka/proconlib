@@ -1,4 +1,5 @@
 // ALDS1 4_A
+// C++
 #include <bits/stdc++.h>
 using namespace std;
 
