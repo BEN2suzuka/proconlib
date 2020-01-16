@@ -31,6 +31,8 @@
     - [6_A : Binary Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_6a.cpp) / [6_B : Includes](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_6b.cpp) / [6_C : Lower Bound](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_6c.cpp) / [6_D : Equal Range](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_6d.cpp)
 - 集合
     - [7_A : Set: Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_7a.cpp) / [7_B : Set: Delete](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_7b.cpp) / [7_C : Set: Range Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_7c.cpp) / [7_D : Multi-Set](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_7d.cpp)
+- 辞書
+    - [8_A : Map: Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8a.cpp) / [8_B : Map: Delete](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8b.cpp) / [8_C : Map: Range Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8c.cpp) / [8_D : Multi-Map](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8d.cpp)
 
 ## AOJ アルゴリズムとデータ構造入門 (ALDS1)
 - 整列
