@@ -36,6 +36,12 @@
 - [3_C : Count](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3c.cpp)
 - [3_D : Lexicographical Comparison](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3d.cpp)
 
+#### 列に対する変更
+- [4_A : Reverse](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4a.cpp)
+- [4_B : Rotate](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4b.cpp)
+- [4_C : Swap](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4c.cpp)
+- [4_D : Unique](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4d.cpp)
+
 ## AOJ アルゴリズムとデータ構造入門 (ALDS1)
 
 #### 整列
