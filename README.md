@@ -24,6 +24,12 @@
 - [1_C : List](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1c.cpp)
 - [1_D : Vector II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1d.cpp)
 
+#### 基本データ構造
+- [2_A : Stack](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2a.cpp)
+- [2_B : Queue](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2b.cpp)
+- [2_C : Priority Queue](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2c.cpp)
+- [2_D : Splice](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2d.cpp)
+
 ## AOJ アルゴリズムとデータ構造入門 (ALDS1)
 
 #### 整列
