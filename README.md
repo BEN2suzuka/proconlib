@@ -22,7 +22,7 @@
 - 基本データ構造
     - [2_A : Stack](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2a.cpp) / [2_B : Queue](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2b.cpp) / [2_C : Priority Queue](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2c.cpp) / [2_D : Splice](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2d.cpp)
 - 列に対する操作
-    - [3_A : Min-Max](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3a.cpp) / [3_B : Min-Max Element](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3b.cpp) / [3_C : Count](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3c.cpp) /[3_D : Lexicographical Comparison](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3d.cpp)
+    - [3_A : Min-Max](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3a.cpp) / [3_B : Min-Max Element](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3b.cpp) / [3_C : Count](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3c.cpp) / [3_D : Lexicographical Comparison](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3d.cpp)
 - 列に対する変更
     - [4_A : Reverse](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4a.cpp) / [4_B : Rotate](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4b.cpp) / [4_C : Swap](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4c.cpp) / [4_D : Unique](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4d.cpp)
 - 順列
@@ -32,12 +32,12 @@
 
 ## AOJ アルゴリズムとデータ構造入門 (ALDS1)
 - 整列
-    - 挿入ソート - [1_A : Insertion Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1a.cpp)
-    - バブルソート - [2_A : Bubble Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_2a.cpp)
-    - 選択ソート - [2_B : Selection Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_2b.cpp)
-    - マージソート - [5_B : Merge Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5b.cpp)
-    - 計数ソート - [6_A : Counting Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6a.cpp)
-    - パーティション - [6_B : Partition](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6b.cpp)
+    - 挿入ソート ... [1_A : Insertion Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1a.cpp)
+    - バブルソート ... [2_A : Bubble Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_2a.cpp)
+    - 選択ソート ... [2_B : Selection Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_2b.cpp)
+    - マージソート ... [5_B : Merge Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5b.cpp)
+    - 計数ソート ... [6_A : Counting Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6a.cpp)
+    - パーティション ... [6_B : Partition](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6b.cpp)
 - 探索
-    - 線形探索 - [4_A : Linear Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4a.cpp)
-    - 二分探索 - [4_B : Binary Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4b.cpp)
+    - 線形探索 ... [4_A : Linear Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4a.cpp)
+    - 二分探索 ... [4_B : Binary Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4b.cpp)
