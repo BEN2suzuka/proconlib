@@ -30,6 +30,12 @@
 - [2_C : Priority Queue](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2c.cpp)
 - [2_D : Splice](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2d.cpp)
 
+#### 列に対する操作
+- [3_A : Min-Max](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3a.cpp)
+- [3_B : Min-Max Element](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3b.cpp)
+- [3_C : Count](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3c.cpp)
+- [3_D : Lexicographical Comparison](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3d.cpp)
+
 ## AOJ アルゴリズムとデータ構造入門 (ALDS1)
 
 #### 整列
