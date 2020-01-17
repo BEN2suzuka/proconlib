@@ -69,13 +69,13 @@
 
 [AOJ アルゴリズムとデータ構造入門 (ALDS1)](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/1) の提出コードです
 
-- 整列
-    - 挿入ソート ... [1_A : Insertion Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1a.cpp)
-    - バブルソート ... [2_A : Bubble Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_2a.cpp)
-    - 選択ソート ... [2_B : Selection Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_2b.cpp)
-    - マージソート ... [5_B : Merge Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5b.cpp)
-    - 計数ソート ... [6_A : Counting Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6a.cpp)
-    - パーティション ... [6_B : Partition](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6b.cpp)
+- 入門
+    - [1_A : Insertion Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1a.cpp) / [1_B : Greatest Common Divisor](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1b.cpp) / [1_C : Prime Numbers](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1c.cpp) / 1_D : Maximum Profit
+- 初等的ソート
+    - [2_A : Bubble Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_2a.cpp) / [2_B : Selection Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_2b.cpp) / 2_C : Stable Sort / 2_D : Shell Sort
 - 探索
-    - 線形探索 ... [4_A : Linear Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4a.cpp)
-    - 二分探索 ... [4_B : Binary Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4b.cpp)
+    - [4_A : Linear Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4a.cpp) / [4_B : Binary Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4b.cpp) / 4_C : Dictionary / 4_D : Allocation
+- 分割統治法
+    - 5_A : Exhaustive Search / [5_B : Merge Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5b.cpp) / 5_C : Koch Curve / 5_D : The Number of Inversions
+- ソート
+    - [6_A : Counting Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6a.cpp) / [6_B : Partition](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6b.cpp) / 6_C : Quick Sort / 6_D : Minimum Cost Sort
