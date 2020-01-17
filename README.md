@@ -35,6 +35,8 @@
     - [8_A : Map: Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8a.cpp) / [8_B : Map: Delete](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8b.cpp) / [8_C : Map: Range Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8c.cpp) / [8_D : Multi-Map](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8d.cpp)
 - 集合演算
     - [9_A : Set Union](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_9a.cpp) / [9_B : Set Intersection](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_9b.cpp) / [9_C : Set Difference](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_9c.cpp) / [9_D : Set Symmetric Difference](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_9d.cpp)
+- ビットセットI
+    - [10_A : Bit Operation I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_10a.cpp) / [10_B : Bit Operation II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_10b.cpp) / [10_C : Bit Flag](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_10c.cpp) / [10_D : Bit Mask](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_10d.cpp)
 
 ## AOJ アルゴリズムとデータ構造入門 (ALDS1)
 - 整列
