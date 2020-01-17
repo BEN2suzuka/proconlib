@@ -32,7 +32,7 @@
 [AOJ 整数論 (NTL)](https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/1) の提出コードです
 
 - 整数論
-    - [1_A : Prime Factorize](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1a.cpp) / 1_B : Power / [1_C : Least Common Multiple](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1c.cpp) / 1_D : Euler's Phi Function / 1_E : Extended Euclid Algorithm
+    - [1_A : Prime Factorize](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1a.cpp) / [1_B : Power](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1b.cpp) / [1_C : Least Common Multiple](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1c.cpp) / 1_D : Euler's Phi Function / 1_E : Extended Euclid Algorithm
 
 
 
