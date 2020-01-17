@@ -4,7 +4,7 @@
 - 素数判定
     - [AOJ ALDS1 1_C : Prime Numbers](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1c.cpp)
 - 素因数分解
-    - [ABC 142 D - Disjoint Set of Common Divisors](https://github.com/BEN2suzuka/proconlib/blob/master/AtCoder/abc142d.cpp)
+    - [AOJ NTL 1_A : Prime Factorize](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1a.cpp)
 - 最大公約数 (GCD)
     - [AOJ ALDS1 1_B : Greatest Common Divisor](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1b.cpp)
 - 最小公倍数 (LCM)
@@ -16,9 +16,29 @@
 - 幅優先探索 (BFS)
     - [ABC 007 C - 幅優先探索](https://github.com/BEN2suzuka/proconlib/blob/master/AtCoder/abc007c.cpp)
 
+
+
+## AOJ データの集合とクエリ処理 (DSL)
+
+[AOJ データの集合とクエリ処理 (DSL)](https://onlinejudge.u-aizu.ac.jp/courses/library/3/DSL/1) の提出コードです
+
+- 集合
+    - 1_A : Disjoint Set: Union Find Tree / 1_B : Weighted Union Find Trees
+
+
+
+## AOJ 整数論 (NTL)
+
+[AOJ 整数論 (NTL)](https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/1) の提出コードです
+
+- 整数論
+    - [1_A : Prime Factorize](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1a.cpp) / 1_B : Power / [1_C : Least Common Multiple](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1c.cpp) / 1_D : Euler's Phi Function / 1_E : Extended Euclid Algorithm
+
+
+
 ## AOJ プログラミング応用 (ITP2)
 
-[AOJ プログラミング応用 (ITP2)](https://onlinejudge.u-aizu.ac.jp/courses/lesson/8/ITP2/1) の提出コード
+[AOJ プログラミング応用 (ITP2)](https://onlinejudge.u-aizu.ac.jp/courses/lesson/8/ITP2/1) の提出コードです
 
 - 動的配列とリスト
     - [1_A : Vector](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1a.cpp) / [1_B : Deque](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1b.cpp) / [1_C : List](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1c.cpp) / [1_D : Vector II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1d.cpp)
@@ -43,9 +63,11 @@
 - ビットセットII
     - [11_A : Enumeration of Subsets I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_11a.cpp) / [11_B : Enumeration of Subsets II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_11b.cpp) / [11_C : Enumeration of Subsets III](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_11c.cpp) / [11_D : Enumeration of Combinations](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_11d.cpp)
 
+
+
 ## AOJ アルゴリズムとデータ構造入門 (ALDS1)
 
-[AOJ アルゴリズムとデータ構造入門 (ALDS1)](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/1) の提出コード
+[AOJ アルゴリズムとデータ構造入門 (ALDS1)](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/1) の提出コードです
 
 - 整列
     - 挿入ソート ... [1_A : Insertion Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1a.cpp)
