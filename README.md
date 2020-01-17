@@ -23,7 +23,7 @@
 [AOJ データの集合とクエリ処理 (DSL)](https://onlinejudge.u-aizu.ac.jp/courses/library/3/DSL/1) の提出コードです
 
 - 集合
-    - 1_A : Disjoint Set: Union Find Tree / 1_B : Weighted Union Find Trees
+    - [1_A : Disjoint Set: Union Find Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_1a.cpp) / 1_B : Weighted Union Find Trees
 
 
 
