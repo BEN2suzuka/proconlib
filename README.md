@@ -73,6 +73,8 @@
     - [1_A : Insertion Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1a.cpp) / [1_B : Greatest Common Divisor](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1b.cpp) / [1_C : Prime Numbers](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1c.cpp) / 1_D : Maximum Profit
 - 初等的ソート
     - [2_A : Bubble Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_2a.cpp) / [2_B : Selection Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_2b.cpp) / 2_C : Stable Sort / 2_D : Shell Sort
+- 基本データ構造
+    - [3_A : Stack](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_3a.cpp) / 3_B : Queue / 3_C : Doubly Linked List / 3_D : Areas on the Cross-Section Diagram
 - 探索
     - [4_A : Linear Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4a.cpp) / [4_B : Binary Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4b.cpp) / 4_C : Dictionary / 4_D : Allocation
 - 分割統治法
