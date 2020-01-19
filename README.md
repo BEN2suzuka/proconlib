@@ -82,4 +82,10 @@
 1. ソート
     - [A : Counting Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6a.cpp) / [B : Partition](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6b.cpp) / C : Quick Sort / D : Minimum Cost Sort
 1. 木構造
-    - [A : Rooted Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7a.cpp) / [B : Binary Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7b.cpp) / C : Tree Walk / D : Reconstruction of a Tree
+    - [A : Rooted Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7a.cpp) / [B : Binary Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7b.cpp) / [C : Tree Walk](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7c.cpp) / D : Reconstruction of a Tree
+1. 二分探索木
+    - A : Binary Search Tree I / B : Binary Search Tree II / C : Binary Search Tree III / D : Treap
+1. ヒープ
+    - A : Complete Binary Tree / B : Maximum Heap / C : Priority Queue
+1. 動的計画法
+    - A : Fibonacci Number / B : Matrix Chain Multiplication / C : Longest Common Subsequence / D : Optimal Binary Search Tree
