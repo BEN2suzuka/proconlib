@@ -84,7 +84,7 @@
 1. 木構造
     - [A : Rooted Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7a.cpp) / [B : Binary Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7b.cpp) / [C : Tree Walk](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7c.cpp) / D : Reconstruction of a Tree
 1. 二分探索木
-    - [A : Binary Search Tree I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_8a.cpp) / [B : Binary Search Tree II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_8b.cpp) / C : Binary Search Tree III / D : Treap
+    - [A : Binary Search Tree I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_8a.cpp) / [B : Binary Search Tree II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_8b.cpp) / [C : Binary Search Tree III](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_8c.cpp) / D : Treap
 1. ヒープ
     - A : Complete Binary Tree / B : Maximum Heap / C : Priority Queue
 1. 動的計画法
