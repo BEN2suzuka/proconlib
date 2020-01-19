@@ -86,6 +86,6 @@
 1. 二分探索木
     - [A : Binary Search Tree I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_8a.cpp) / [B : Binary Search Tree II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_8b.cpp) / [C : Binary Search Tree III](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_8c.cpp) / D : Treap
 1. ヒープ
-    - A : Complete Binary Tree / B : Maximum Heap / C : Priority Queue
+    - [A : Complete Binary Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_9a.cpp) / [B : Maximum Heap](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_9b.cpp) / [C : Priority Queue](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_9c.cpp)
 1. 動的計画法
     - A : Fibonacci Number / B : Matrix Chain Multiplication / C : Longest Common Subsequence / D : Optimal Binary Search Tree
