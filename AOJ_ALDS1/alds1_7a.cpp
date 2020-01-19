@@ -35,7 +35,7 @@ void print(int node) {
 }
 
 // 右の兄弟の深さと最も左の子の深さを再帰的に計算
-int setDepth(int node, int depth) {
+void setDepth(int node, int depth) {
   D.at(node) = depth;
   // 右の兄弟が存在する場合、深さを変えずに再帰呼び出し
   if (T.at(node).right != NIL) {

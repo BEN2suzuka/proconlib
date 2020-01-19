@@ -82,4 +82,4 @@
 1. ソート
     - [A : Counting Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6a.cpp) / [B : Partition](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6b.cpp) / C : Quick Sort / D : Minimum Cost Sort
 1. 木構造
-    - [A : Rooted Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7a.cpp) / B : Binary Trees / C : Tree Walk / D : Reconstruction of a Tree
+    - [A : Rooted Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7a.cpp) / [B : Binary Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7b.cpp) / C : Tree Walk / D : Reconstruction of a Tree
