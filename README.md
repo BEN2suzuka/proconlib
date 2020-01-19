@@ -78,6 +78,6 @@
 - 探索
     - [4_A : Linear Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4a.cpp) / [4_B : Binary Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4b.cpp) / 4_C : Dictionary / 4_D : Allocation
 - 分割統治法
-    - 5_A : Exhaustive Search / [5_B : Merge Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5b.cpp) / 5_C : Koch Curve / 5_D : The Number of Inversions
+    - [5_A : Exhaustive Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5a.cpp) / [5_B : Merge Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5b.cpp) / 5_C : Koch Curve / 5_D : The Number of Inversions
 - ソート
     - [6_A : Counting Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6a.cpp) / [6_B : Partition](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6b.cpp) / 6_C : Quick Sort / 6_D : Minimum Cost Sort
