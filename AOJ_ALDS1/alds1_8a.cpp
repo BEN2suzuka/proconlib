@@ -22,6 +22,7 @@ void insert(int k) {
   z->right = NIL;
 
   // NIL に当たるまで潜る
+  // 空のとき、root == NIL
   while (cur != NIL) {
     prev = cur;
     if (z->key < cur->key) {  // z が今いるノードより小さいとき、左の子の方へ潜る
