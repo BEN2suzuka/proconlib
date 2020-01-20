@@ -4,11 +4,12 @@
 using namespace std;
 
 // 最小全域木 (MST : Minimum Spanning Tree) : 全域木のうち辺の重みの総和が最小
+int N;
 const int INF = 1000000000;
 vector<vector<int>> M;
 
 // プリムのアルゴリズム
-int prim(int N) {
+int prim() {
   vector<int> color(N);  // 0 : 未訪問, 1 : MST の候補, 2 : MST
   vector<int> d(N, INF);
   vector<int> p(N, -1);  // p[v] : MST における頂点 v の親 (どこから v に来たか)
@@ -48,7 +49,7 @@ int prim(int N) {
 }
 
 int main() {
-  int N; cin >> N;
+  cin >> N;
   M = vector<vector<int>>(N, vector<int>(N));
   for (int i = 0; i < N; i++) {
     for (int j = 0; j < N; j++) {
@@ -56,5 +57,5 @@ int main() {
       M.at(i).at(j) = (e == -1) ? INF : e;
     }
   }
-  cout << prim(N) << endl;
+  cout << prim() << endl;
 }
