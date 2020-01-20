@@ -92,4 +92,4 @@
 1. グラフI
     - [A : Graph](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_11a.cpp) / [B : Depth First Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_11b.cpp) / [C : Breadth First Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_11c.cpp) / [D : Connected Components](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_11d.cpp)
 1. グラフII
-    - [A : Minimum Spanning Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_12a.cpp) / B : Single Source Shortest Path I / C : Single Source Shortest Path II
+    - [A : Minimum Spanning Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_12a.cpp) / [B : Single Source Shortest Path I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_12b.cpp) / [C : Single Source Shortest Path II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_12c.cpp)
