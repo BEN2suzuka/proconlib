@@ -20,7 +20,7 @@
 
 ## AOJ データの集合とクエリ処理 (DSL)
 
-[AOJ データの集合とクエリ処理 (DSL)](https://onlinejudge.u-aizu.ac.jp/courses/library/3/DSL/1) の提出コードです
+[AOJ データの集合とクエリ処理 (DSL)](https://onlinejudge.u-aizu.ac.jp/courses/library/3/DSL/1) の提出コードです。
 
 1. 集合
     - [A : Disjoint Set: Union Find Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_1a.cpp) / B : Weighted Union Find Trees
@@ -29,7 +29,7 @@
 
 ## AOJ 整数論 (NTL)
 
-[AOJ 整数論 (NTL)](https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/1) の提出コードです
+[AOJ 整数論 (NTL)](https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/1) の提出コードです。
 
 1. 整数論
     - [A : Prime Factorize](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1a.cpp) / [B : Power](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1b.cpp) / [C : Least Common Multiple](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1c.cpp) / D : Euler's Phi Function / E : Extended Euclid Algorithm
@@ -38,7 +38,7 @@
 
 ## AOJ プログラミング応用 (ITP2)
 
-[AOJ プログラミング応用 (ITP2)](https://onlinejudge.u-aizu.ac.jp/courses/lesson/8/ITP2/1) の提出コードです
+[AOJ プログラミング応用 (ITP2)](https://onlinejudge.u-aizu.ac.jp/courses/lesson/8/ITP2/1) の提出コードです。
 
 1. 動的配列とリスト
     - [A : Vector](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1a.cpp) / [B : Deque](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1b.cpp) / [C : List](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1c.cpp) / [D : Vector II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1d.cpp)
@@ -67,7 +67,7 @@
 
 ## AOJ アルゴリズムとデータ構造入門 (ALDS1)
 
-[AOJ アルゴリズムとデータ構造入門 (ALDS1)](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/1) の提出コードです
+[AOJ アルゴリズムとデータ構造入門 (ALDS1)](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/1) の提出コードです。
 
 1. 入門
     - [A : Insertion Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1a.cpp) / [B : Greatest Common Divisor](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1b.cpp) / [C : Prime Numbers](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1c.cpp) / [D : Maximum Profit](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1d.cpp)
@@ -93,3 +93,9 @@
     - [A : Graph](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_11a.cpp) / [B : Depth First Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_11b.cpp) / [C : Breadth First Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_11c.cpp) / [D : Connected Components](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_11d.cpp)
 1. グラフII
     - [A : Minimum Spanning Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_12a.cpp) / [B : Single Source Shortest Path I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_12b.cpp) / [C : Single Source Shortest Path II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_12c.cpp)
+1. ヒューリスティック探索
+    - A : 8 Queens Problem / B : 8 Puzzle / C : 15 Puzzle
+1. 文字列検索
+    - A : Naive String Search / B : String Search / C : Pattern Search / D : Multiple String Matching
+1. 貪欲アルゴリズム
+    - A : Change Making / B : Fractional Knapsack Problem / C : Activity Selection Problem / D : Huffman Coding
