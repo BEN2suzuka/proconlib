@@ -32,7 +32,7 @@
 [AOJ 整数論 (NTL)](https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/1) の提出コードです。
 
 1. 整数論
-    - [A : Prime Factorize](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1a.cpp) / [B : Power](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1b.cpp) / [C : Least Common Multiple](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1c.cpp) / D : Euler's Phi Function / E : Extended Euclid Algorithm
+    - [A : Prime Factorize](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1a.cpp) / [B : Power](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1b.cpp) / [C : Least Common Multiple](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1c.cpp) / [D : Euler's Phi Function](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1d.cpp) / [E : Extended Euclid Algorithm](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1e.cpp)
 
 
 
@@ -96,6 +96,6 @@
 1. ヒューリスティック探索
     - A : 8 Queens Problem / B : 8 Puzzle / C : 15 Puzzle
 1. 文字列検索
-    - A : Naive String Search / B : String Search / C : Pattern Search / D : Multiple String Matching
+    - [A : Naive String Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_14a.cpp) / [B : String Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_14b.cpp) / C : Pattern Search / D : Multiple String Matching
 1. 貪欲アルゴリズム
     - A : Change Making / B : Fractional Knapsack Problem / C : Activity Selection Problem / D : Huffman Coding
