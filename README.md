@@ -72,7 +72,7 @@
 1. 入門
     - [A : Insertion Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1a.cpp) / [B : Greatest Common Divisor](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1b.cpp) / [C : Prime Numbers](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1c.cpp) / [D : Maximum Profit](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1d.cpp)
 1. 初等的ソート
-    - [A : Bubble Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_2a.cpp) / [B : Selection Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_2b.cpp) / C : Stable Sort / D : Shell Sort
+    - [A : Bubble Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_2a.cpp) / [B : Selection Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_2b.cpp) / [C : Stable Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_2c.cpp) / D : Shell Sort
 1. 基本データ構造
     - [A : Stack](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_3a.cpp) / [B : Queue](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_3b.cpp) / [C : Doubly Linked List](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_3c.cpp) / D : Areas on the Cross-Section Diagram
 1. 探索
