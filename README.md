@@ -76,7 +76,7 @@
 1. 基本データ構造
     - [A : Stack](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_3a.cpp) / [B : Queue](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_3b.cpp) / [C : Doubly Linked List](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_3c.cpp) / D : Areas on the Cross-Section Diagram
 1. 探索
-    - [A : Linear Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4a.cpp) / [B : Binary Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4b.cpp) / C : Dictionary / D : Allocation
+    - [A : Linear Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4a.cpp) / [B : Binary Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4b.cpp) / [C : Dictionary](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4c.cpp) / D : Allocation
 1. 分割統治法
     - [A : Exhaustive Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5a.cpp) / [B : Merge Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5b.cpp) / C : Koch Curve / D : The Number of Inversions
 1. ソート
