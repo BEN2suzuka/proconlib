@@ -98,4 +98,4 @@
 1. 文字列検索
     - [A : Naive String Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_14a.cpp) / [B : String Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_14b.cpp) / C : Pattern Search / D : Multiple String Matching
 1. 貪欲アルゴリズム
-    - A : Change Making / B : Fractional Knapsack Problem / C : Activity Selection Problem / D : Huffman Coding
+    - A : Change Making / B : Fractional Knapsack Problem / [C : Activity Selection Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_14c.cpp) / D : Huffman Coding
