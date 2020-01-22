@@ -78,7 +78,7 @@
 1. 探索
     - [A : Linear Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4a.cpp) / [B : Binary Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4b.cpp) / [C : Dictionary](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_4c.cpp) / D : Allocation
 1. 分割統治法
-    - [A : Exhaustive Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5a.cpp) / [B : Merge Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5b.cpp) / [C : Koch Curve](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5c.cpp) / D : The Number of Inversions
+    - [A : Exhaustive Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5a.cpp) / [B : Merge Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5b.cpp) / [C : Koch Curve](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5c.cpp) / [D : The Number of Inversions](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5d.cpp)
 1. ソート
     - [A : Counting Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6a.cpp) / [B : Partition](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6b.cpp) / C : Quick Sort / D : Minimum Cost Sort
 1. 木構造
