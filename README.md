@@ -80,7 +80,7 @@
 1. 分割統治法
     - [A : Exhaustive Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5a.cpp) / [B : Merge Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5b.cpp) / [C : Koch Curve](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5c.cpp) / [D : The Number of Inversions](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_5d.cpp)
 1. ソート
-    - [A : Counting Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6a.cpp) / [B : Partition](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6b.cpp) / C : Quick Sort / D : Minimum Cost Sort
+    - [A : Counting Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6a.cpp) / [B : Partition](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6b.cpp) / [C : Quick Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6c.cpp) / D : Minimum Cost Sort
 1. 木構造
     - [A : Rooted Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7a.cpp) / [B : Binary Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7b.cpp) / [C : Tree Walk](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7c.cpp) / D : Reconstruction of a Tree
 1. 二分探索木
