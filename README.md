@@ -82,7 +82,7 @@
 1. ソート
     - [A : Counting Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6a.cpp) / [B : Partition](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6b.cpp) / [C : Quick Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_6c.cpp) / D : Minimum Cost Sort
 1. 木構造
-    - [A : Rooted Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7a.cpp) / [B : Binary Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7b.cpp) / [C : Tree Walk](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7c.cpp) / D : Reconstruction of a Tree
+    - [A : Rooted Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7a.cpp) / [B : Binary Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7b.cpp) / [C : Tree Walk](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7c.cpp) / [D : Reconstruction of a Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_7d.cpp)
 1. 二分探索木
     - [A : Binary Search Tree I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_8a.cpp) / [B : Binary Search Tree II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_8b.cpp) / [C : Binary Search Tree III](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_8c.cpp) / D : Treap
 1. ヒープ
