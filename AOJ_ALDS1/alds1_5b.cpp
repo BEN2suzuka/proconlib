@@ -4,6 +4,7 @@
 using namespace std;
 
 int cnt = 0;
+const int INF = 1000000007;
 
 void MergeSort(vector<int> &A, int left, int right) {
   // divide
@@ -12,22 +13,23 @@ void MergeSort(vector<int> &A, int left, int right) {
   MergeSort(A, left, mid);  // [left, mid)
   MergeSort(A, mid, right);  // [mid, right)
 
-  // ex. buf = { 2, 5, 6, 8, 7, 4, 3, 1 }
-  vector<int> buf;
-  for (int i = left; i < mid; i++) buf.push_back(A.at(i));
-  for (int i = right-1; i >= mid; i--) buf.push_back(A.at(i));
+  vector<int> L, R;
+  for (int i = left; i < mid; i++) L.push_back(A.at(i));
+  for (int i = mid; i < right; i++) R.push_back(A.at(i));
+  L.push_back(INF);
+  R.push_back(INF);
 
   // merge
   int iter_left = 0;
-  int iter_right = buf.size() - 1;
+  int iter_right = 0;
   for (int i = left; i < right; i++) {
-    if (buf.at(iter_left) <= buf.at(iter_right)) {
-      A.at(i) = buf.at(iter_left);
+    if (L.at(iter_left) <= R.at(iter_right)) {
+      A.at(i) = L.at(iter_left);
       iter_left++;
     }
     else {
-      A.at(i) = buf.at(iter_right);
-      iter_right--;
+      A.at(i) = R.at(iter_right);
+      iter_right++;
     }
     cnt++;
   }
@@ -39,7 +41,6 @@ int main() {
   for (int i = 0; i < N; i++) cin >> A.at(i);
   MergeSort(A, 0, N);
 
-  // 出力
   for (int i = 0; i < N; i++) {
     if (i) cout << " ";
     cout << A.at(i);
