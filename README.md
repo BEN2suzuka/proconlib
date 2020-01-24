@@ -94,7 +94,7 @@
 1. グラフII
     - [A : Minimum Spanning Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_12a.cpp) / [B : Single Source Shortest Path I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_12b.cpp) / [C : Single Source Shortest Path II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_12c.cpp)
 1. ヒューリスティック探索
-    - A : 8 Queens Problem / B : 8 Puzzle / C : 15 Puzzle
+    - [A : 8 Queens Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_13a.cpp) / B : 8 Puzzle / C : 15 Puzzle
 1. 文字列検索
     - [A : Naive String Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_14a.cpp) / [B : String Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_14b.cpp) / C : Pattern Search / D : Multiple String Matching
 1. 貪欲アルゴリズム
