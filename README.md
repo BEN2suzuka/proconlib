@@ -33,7 +33,7 @@
 
 1. 組み合わせ
     - [A : Coin Changing Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_1a.cpp) / [B : 0-1 Knapsack Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_1b.cpp) /  
-    C : Knapsack Problem / D : Longest Increasing Subsequence /  
+    [C : Knapsack Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_1c.cpp) / D : Longest Increasing Subsequence /  
     E : Edit Distance (Levenshtein Distance) / F : 0-1 Knapsack Problem II /  
     G : Knapsack Problem with Limitations / H : Huge Knapsack Problem /  
     I : Knapsack Problem with Limitations II

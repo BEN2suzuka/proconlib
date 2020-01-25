@@ -1,4 +1,4 @@
-// DPL 1_B
+// DPL 1_C
 // C++14
 #include <bits/stdc++.h>
 using namespace std;
@@ -12,7 +12,7 @@ int main() {
     for (int j = 0; j <= W; j++) {
       dp.at(i+1).at(j) = max(dp.at(i+1).at(j), dp.at(i).at(j));
       if (j + w.at(i) <= W) {
-        dp.at(i+1).at(j + w.at(i)) = max(dp.at(i+1).at(j + w.at(i)), dp.at(i).at(j) + v.at(i));
+        dp.at(i+1).at(j + w.at(i)) = max(dp.at(i+1).at(j + w.at(i)), dp.at(i+1).at(j) + v.at(i));
       }
     }
   }
