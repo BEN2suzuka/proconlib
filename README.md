@@ -95,7 +95,7 @@
 
 
 
-## 組み合わせ最適化 (DPL)
+## AOJ 組み合わせ最適化 (DPL)
 
 [AOJ 組み合わせ最適化 (DPL)](https://onlinejudge.u-aizu.ac.jp/courses/library/7/DPL/1) の提出コードです。
 
