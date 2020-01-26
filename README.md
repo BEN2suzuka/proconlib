@@ -18,83 +18,6 @@
 
 
 
-## AOJ データの集合とクエリ処理 (DSL)
-
-[AOJ データの集合とクエリ処理 (DSL)](https://onlinejudge.u-aizu.ac.jp/courses/library/3/DSL/1) の提出コードです。
-
-1. 集合
-    - [A : Disjoint Set: Union Find Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_1a.cpp) / B : Weighted Union Find Trees
-
-
-
-## 組み合わせ最適化 (DPL)
-
-[AOJ 組み合わせ最適化 (DPL)](https://onlinejudge.u-aizu.ac.jp/courses/library/7/DPL/1) の提出コードです。
-
-1. 組み合わせ
-    - [A : Coin Changing Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_1a.cpp) / [B : 0-1 Knapsack Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_1b.cpp) /  
-    [C : Knapsack Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_1c.cpp) / D : Longest Increasing Subsequence /  
-    E : Edit Distance (Levenshtein Distance) / F : 0-1 Knapsack Problem II /  
-    G : Knapsack Problem with Limitations / H : Huge Knapsack Problem /  
-    I : Knapsack Problem with Limitations II
-
-
-
-## AOJ グラフ (GRL)
-
-[AOJ グラフ (GRL)](https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/1) の提出コードです。
-
-1. 最短経路
-    - [A : Single Source Shortest Path](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_1a.cpp) /  
-    [B : Single Source Shortest Path (Negative Edges)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_1b.cpp) /  
-    [C : All Pairs Shortest Path](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_1c.cpp)
-1. 全域木
-    - [A : Minimum Spanning Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_2a.cpp) / B : Minimum-Cost Arborescence
-
-
-
-## AOJ 整数論 (NTL)
-
-[AOJ 整数論 (NTL)](https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/1) の提出コードです。
-
-1. 整数論
-    - [A : Prime Factorize](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1a.cpp) / [B : Power](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1b.cpp) / [C : Least Common Multiple](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1c.cpp) /  
-    [D : Euler's Phi Function](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1d.cpp) / [E : Extended Euclid Algorithm](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1e.cpp)
-
-
-
-## AOJ プログラミング応用 (ITP2)
-
-[AOJ プログラミング応用 (ITP2)](https://onlinejudge.u-aizu.ac.jp/courses/lesson/8/ITP2/1) の提出コードです。
-
-1. 動的配列とリスト
-    - [A : Vector](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1a.cpp) / [B : Deque](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1b.cpp) / [C : List](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1c.cpp) / [D : Vector II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1d.cpp)
-1. 基本データ構造
-    - [A : Stack](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2a.cpp) / [B : Queue](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2b.cpp) / [C : Priority Queue](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2c.cpp) / [D : Splice](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2d.cpp)
-1. 列に対する操作
-    - [A : Min-Max](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3a.cpp) / [B : Min-Max Element](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3b.cpp) / [C : Count](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3c.cpp) / [D : Lexicographical Comparison](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3d.cpp)
-1. 列に対する変更
-    - [A : Reverse](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4a.cpp) / [B : Rotate](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4b.cpp) / [C : Swap](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4c.cpp) / [D : Unique](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4d.cpp)
-1. 順列
-    - [A : Sorting Pairs](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_5a.cpp) / [B : Sorting Tuples](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_5b.cpp) / [C : Permutation](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_5c.cpp) /  
-    [D : Permutation Enumeration](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_5d.cpp)
-1. 二分探索
-    - [A : Binary Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_6a.cpp) / [B : Includes](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_6b.cpp) / [C : Lower Bound](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_6c.cpp) / [D : Equal Range](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_6d.cpp)
-1. 集合
-    - [A : Set: Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_7a.cpp) / [B : Set: Delete](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_7b.cpp) / [C : Set: Range Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_7c.cpp) / [D : Multi-Set](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_7d.cpp)
-1. 辞書
-    - [A : Map: Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8a.cpp) / [B : Map: Delete](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8b.cpp) / [C : Map: Range Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8c.cpp) / [D : Multi-Map](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8d.cpp)
-1. 集合演算
-    - [A : Set Union](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_9a.cpp) / [B : Set Intersection](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_9b.cpp) / [C : Set Difference](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_9c.cpp) /  
-    [D : Set Symmetric Difference](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_9d.cpp)
-1. ビットセットI
-    - [A : Bit Operation I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_10a.cpp) / [B : Bit Operation II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_10b.cpp) / [C : Bit Flag](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_10c.cpp) / [D : Bit Mask](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_10d.cpp)
-1. ビットセットII
-    - [A : Enumeration of Subsets I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_11a.cpp) / [B : Enumeration of Subsets II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_11b.cpp) /  
-    [C : Enumeration of Subsets III](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_11c.cpp) / [D : Enumeration of Combinations](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_11d.cpp)
-
-
-
 ## AOJ アルゴリズムとデータ構造入門 (ALDS1)
 
 [AOJ アルゴリズムとデータ構造入門 (ALDS1)](https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/1) の提出コードです。
@@ -138,3 +61,80 @@
 1. 貪欲アルゴリズム
     - [A : Change Making](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_15a.cpp) / [B : Fractional Knapsack Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_15b.cpp) /  
     [C : Activity Selection Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_15c.cpp) / [D : Huffman Coding](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_15d.cpp)
+
+
+
+## AOJ プログラミング応用 (ITP2)
+
+[AOJ プログラミング応用 (ITP2)](https://onlinejudge.u-aizu.ac.jp/courses/lesson/8/ITP2/1) の提出コードです。
+
+1. 動的配列とリスト
+    - [A : Vector](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1a.cpp) / [B : Deque](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1b.cpp) / [C : List](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1c.cpp) / [D : Vector II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_1d.cpp)
+1. 基本データ構造
+    - [A : Stack](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2a.cpp) / [B : Queue](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2b.cpp) / [C : Priority Queue](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2c.cpp) / [D : Splice](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_2d.cpp)
+1. 列に対する操作
+    - [A : Min-Max](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3a.cpp) / [B : Min-Max Element](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3b.cpp) / [C : Count](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3c.cpp) / [D : Lexicographical Comparison](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_3d.cpp)
+1. 列に対する変更
+    - [A : Reverse](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4a.cpp) / [B : Rotate](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4b.cpp) / [C : Swap](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4c.cpp) / [D : Unique](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_4d.cpp)
+1. 順列
+    - [A : Sorting Pairs](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_5a.cpp) / [B : Sorting Tuples](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_5b.cpp) / [C : Permutation](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_5c.cpp) /  
+    [D : Permutation Enumeration](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_5d.cpp)
+1. 二分探索
+    - [A : Binary Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_6a.cpp) / [B : Includes](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_6b.cpp) / [C : Lower Bound](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_6c.cpp) / [D : Equal Range](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_6d.cpp)
+1. 集合
+    - [A : Set: Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_7a.cpp) / [B : Set: Delete](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_7b.cpp) / [C : Set: Range Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_7c.cpp) / [D : Multi-Set](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_7d.cpp)
+1. 辞書
+    - [A : Map: Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8a.cpp) / [B : Map: Delete](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8b.cpp) / [C : Map: Range Search](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8c.cpp) / [D : Multi-Map](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_8d.cpp)
+1. 集合演算
+    - [A : Set Union](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_9a.cpp) / [B : Set Intersection](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_9b.cpp) / [C : Set Difference](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_9c.cpp) /  
+    [D : Set Symmetric Difference](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_9d.cpp)
+1. ビットセットI
+    - [A : Bit Operation I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_10a.cpp) / [B : Bit Operation II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_10b.cpp) / [C : Bit Flag](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_10c.cpp) / [D : Bit Mask](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_10d.cpp)
+1. ビットセットII
+    - [A : Enumeration of Subsets I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_11a.cpp) / [B : Enumeration of Subsets II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_11b.cpp) /  
+    [C : Enumeration of Subsets III](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_11c.cpp) / [D : Enumeration of Combinations](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ITP2/itp2_11d.cpp)
+
+
+
+## AOJ データの集合とクエリ処理 (DSL)
+
+[AOJ データの集合とクエリ処理 (DSL)](https://onlinejudge.u-aizu.ac.jp/courses/library/3/DSL/1) の提出コードです。
+
+1. 集合
+    - [A : Disjoint Set: Union Find Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_1a.cpp) / B : Weighted Union Find Trees
+
+
+
+## 組み合わせ最適化 (DPL)
+
+[AOJ 組み合わせ最適化 (DPL)](https://onlinejudge.u-aizu.ac.jp/courses/library/7/DPL/1) の提出コードです。
+
+1. 組み合わせ
+    - [A : Coin Changing Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_1a.cpp) / [B : 0-1 Knapsack Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_1b.cpp) /  
+    [C : Knapsack Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_1c.cpp) / D : Longest Increasing Subsequence /  
+    E : Edit Distance (Levenshtein Distance) / F : 0-1 Knapsack Problem II /  
+    G : Knapsack Problem with Limitations / H : Huge Knapsack Problem /  
+    I : Knapsack Problem with Limitations II
+
+
+
+## AOJ グラフ (GRL)
+
+[AOJ グラフ (GRL)](https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/1) の提出コードです。
+
+1. 最短経路
+    - [A : Single Source Shortest Path](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_1a.cpp) /  
+    [B : Single Source Shortest Path (Negative Edges)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_1b.cpp) /  
+    [C : All Pairs Shortest Path](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_1c.cpp)
+1. 全域木
+    - [A : Minimum Spanning Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_2a.cpp) / B : Minimum-Cost Arborescence
+
+
+
+## AOJ 整数論 (NTL)
+
+[AOJ 整数論 (NTL)](https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/1) の提出コードです。
+
+1. 整数論
+    - [A : Prime Factorize](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1a.cpp) / [B : Power](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1b.cpp) / [C : Least Common Multiple](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1c.cpp) /  
+    [D : Euler's Phi Function](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1d.cpp) / [E : Extended Euclid Algorithm](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1e.cpp)
