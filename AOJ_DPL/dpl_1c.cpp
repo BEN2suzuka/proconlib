@@ -3,6 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// 個数制限なしナップサック問題
 int main() {
   int N, W; cin >> N >> W;
   vector<int> v(N), w(N);
