@@ -1,4 +1,4 @@
-// DPL_1_E
+// DPL 1_E
 // C++14
 #include <bits/stdc++.h>
 using namespace std;
