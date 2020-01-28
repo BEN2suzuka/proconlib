@@ -6,7 +6,6 @@ using namespace std;
 // Range Sum Query (RSQ)
 int num = 1;
 vector<int> A;
-const int INF = 2147483647;  // 2^31 - 1
 
 // A.at(i) に x を加算
 void add(int i, int x) {
