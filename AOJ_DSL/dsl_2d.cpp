@@ -23,7 +23,7 @@ int find(int i) {
 // t は時刻で、最新の更新ほど t は大きい値をとるようにする
 // ノード番号 k は [l, r) に対応している
 void update(int a, int b, int x, int t, int k, int l, int r) {
-  // [a, b) と [l, r) が公差していない
+  // [a, b) と [l, r) が交差していない
   if (r <= a || b <= l) return;
   // [a, b) が [l, r) を完全に含む
   if (a <= l && r <= b) A.at(k) = make_pair(x, t);

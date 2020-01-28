@@ -21,7 +21,7 @@ void update(int i, int x) {
 // [a, b) の最小値を求める
 // ノード番号 k は [l, r) に対応している
 int query(int a, int b, int k, int l, int r) {
-  if (r <= a || b <= l) return INF;  // [a, b) と [l, r) が公差していない
+  if (r <= a || b <= l) return INF;  // [a, b) と [l, r) が交差していない
   if (a <= l && r <= b) return A.at(k);  // [a, b) が [l, r) を完全に含む
   else {
     int c1 = query(a, b, 2*k+1, l, (l+r)/2);
