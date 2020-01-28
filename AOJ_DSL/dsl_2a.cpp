@@ -35,7 +35,7 @@ int main() {
   num = 1;
   while (num < N) num *= 2;  // 要素数は 2 のべき乗にする
   A = vector<int>(2*num - 1, INF);  // 要素数 n のときに必要なノード数は 2*n - 1
-  for (int j = 0; j < Q; j++) {
+  for (int i = 0; i < Q; i++) {
     int com; cin >> com;
     int x, y; cin >> x >> y;
     if (com == 0) update(x, y);
