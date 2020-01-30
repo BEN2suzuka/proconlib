@@ -94,7 +94,7 @@
     - [A : Disjoint Set: Union Find Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_1a.cpp) / B : Weighted Union Find Trees
 1. 区間クエリ
     - [A : Range Minimum Query (RMQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2a.cpp) / [B : Range Sum Query (RSQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2b.cpp) / C : Range Search (kD Tree) /  
-    [D : Range Update Query (RUQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2d.cpp) / [E : Range Add Query (RAQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2e.cpp) / F : RMQ and RUQ / G : RSQ and RAQ /  
+    [D : Range Update Query (RUQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2d.cpp) / [E : Range Add Query (RAQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2e.cpp) / [F : RMQ and RUQ](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2f.cpp) / G : RSQ and RAQ /  
     H : RMQ and RAQ / I : RSQ and RUQ
 
 
