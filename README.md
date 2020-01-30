@@ -97,7 +97,8 @@
     [D : Range Update Query (RUQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2d.cpp) / [E : Range Add Query (RAQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2e.cpp) / [F : RMQ and RUQ](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2f.cpp) / [G : RSQ and RAQ](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2g.cpp) /  
     [H : RMQ and RAQ](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2h.cpp) / [I : RSQ and RUQ](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2i.cpp)
 1. スライディングウィンドウ
-    - [A : The Smallest Window I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_3a.cpp) / B : The Smallest Window II / C : The Number of Windows / D : Sliding Minimum Elements
+    - [A : The Smallest Window I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_3a.cpp) / [B : The Smallest Window II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_3b.cpp) / C : The Number of Windows /  
+    D : Sliding Minimum Elements
 
 
 
