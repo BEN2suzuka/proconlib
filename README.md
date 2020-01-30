@@ -98,7 +98,11 @@
     [H : RMQ and RAQ](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2h.cpp) / [I : RSQ and RUQ](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2i.cpp)
 1. スライディングウィンドウ
     - [A : The Smallest Window I](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_3a.cpp) / [B : The Smallest Window II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_3b.cpp) / [C : The Number of Windows](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_3c.cpp) /  
-    D : Sliding Minimum Elements
+    [D : Sliding Minimum Elements](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_3d.cpp)
+1. 座標圧縮
+    - A : Union of Rectangles
+1. 累積和
+    - A : The Maximum Number of Customers / B : The Maximum Number of Overlaps
 
 
 
