@@ -93,7 +93,7 @@
 1. 集合
     - [A : Disjoint Set: Union Find Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_1a.cpp) / B : Weighted Union Find Trees
 1. 区間クエリ
-    - [A : Range Minimum Query (RMQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2a.cpp) / [B : Range Sum Query (RSQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2b.cpp) / C : Range Search (kD Tree) /  
+    - [A : Range Minimum Query (RMQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2a.cpp) / [B : Range Sum Query (RSQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2b.cpp) / [C : Range Search (kD Tree)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2c.cpp) /  
     [D : Range Update Query (RUQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2d.cpp) / [E : Range Add Query (RAQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2e.cpp) / [F : RMQ and RUQ](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2f.cpp) / [G : RSQ and RAQ](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2g.cpp) /  
     [H : RMQ and RAQ](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2h.cpp) / [I : RSQ and RUQ](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2i.cpp)
 1. スライディングウィンドウ
@@ -125,6 +125,16 @@
     - [A : Single Source Shortest Path](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_1a.cpp) / [B : Single Source Shortest Path (Negative Edges)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_1b.cpp) / [C : All Pairs Shortest Path](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_1c.cpp)
 1. 全域木
     - [A : Minimum Spanning Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_2a.cpp) / B : Minimum-Cost Arborescence
+1. 連結成分
+    - A : Articulation Points / B : Bridges / C : Strongly Connected Components
+1. サイクル
+    - A : Cycle Detection for a Directed Graph / B : Topological Sort
+1. 木
+    - A : Diameter of a Tree / B : Height of a Tree / C : Lowest Common Ancestor / D : Range Query on a Tree / E : Range Query on a Tree II
+1. ネットワークフロー
+    - A : Maximum Flow / B : Minimum Cost Flow
+1. マッチング
+    - A : Bipartite Matching
 
 
 
