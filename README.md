@@ -114,6 +114,14 @@
     - [A : Coin Changing Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_1a.cpp) / [B : 0-1 Knapsack Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_1b.cpp) / [C : Knapsack Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_1c.cpp) /  
     [D : Longest Increasing Subsequence](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_1d.cpp) / [E : Edit Distance (Levenshtein Distance)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_1e.cpp) / [F : 0-1 Knapsack Problem II](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_1f.cpp) /  
     G : Knapsack Problem with Limitations / H : Huge Knapsack Problem / I : Knapsack Problem with Limitations II
+1. 順列
+    - A : Traveling Salesman Problem / B : Chinese Postman Problem / C : Bitonic Traveling Salesman Problem
+1. パターン
+    - A : Largest Square / B : Largest Rectangle / C : Largest Rectangle in a Histogram
+1. 数え上げ
+    - A : Coin Combination Problem / B : Coin Combination Problem II
+1. 写像12相
+    - A : Balls and Boxes 1 / B : Balls and Boxes 2 / C : Balls and Boxes 3 / D : Balls and Boxes 4 / E : Balls and Boxes 5 / F : Balls and Boxes 6 / G : Balls and Boxes 7 / H : Balls and Boxes 8 / I : Balls and Boxes 9 / J : Balls and Boxes 10 / K : Balls and Boxes 11 / L : Balls and Boxes 12
 
 
 
@@ -128,9 +136,10 @@
 1. 連結成分
     - A : Articulation Points / B : Bridges / C : Strongly Connected Components
 1. サイクル
-    - A : Cycle Detection for a Directed Graph / B : Topological Sort
+    - [A : Cycle Detection for a Directed Graph](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_4a.cpp) / [B : Topological Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_4b.cpp)
 1. 木
-    - A : Diameter of a Tree / B : Height of a Tree / C : Lowest Common Ancestor / D : Range Query on a Tree / E : Range Query on a Tree II
+    - A : Diameter of a Tree / B : Height of a Tree / C : Lowest Common Ancestor / D : Range Query on a Tree /  
+    E : Range Query on a Tree II
 1. ネットワークフロー
     - A : Maximum Flow / B : Minimum Cost Flow
 1. マッチング
@@ -144,3 +153,6 @@
 
 1. 整数論
     - [A : Prime Factorize](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1a.cpp) / [B : Power](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1b.cpp) / [C : Least Common Multiple](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1c.cpp) / [D : Euler's Phi Function](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1d.cpp) / [E : Extended Euclid Algorithm](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1e.cpp)
+1. 多倍長整数
+    - A : Addition of Big Integers / B : Difference of Big Integers / C : Multiplication of Big Integers /  
+    D : Division of Big Integers / E : Remainder of Big Integers / F : Multiplication of Big Integers II
