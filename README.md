@@ -121,7 +121,9 @@
 1. 数え上げ
     - A : Coin Combination Problem / B : Coin Combination Problem II
 1. 写像12相
-    - A : Balls and Boxes 1 / B : Balls and Boxes 2 / C : Balls and Boxes 3 / D : Balls and Boxes 4 / E : Balls and Boxes 5 / F : Balls and Boxes 6 / G : Balls and Boxes 7 / H : Balls and Boxes 8 / I : Balls and Boxes 9 / J : Balls and Boxes 10 / K : Balls and Boxes 11 / L : Balls and Boxes 12
+    - A : Balls and Boxes 1 / B : Balls and Boxes 2 / C : Balls and Boxes 3 / D : Balls and Boxes 4 / E : Balls and Boxes 5 /  
+    F : Balls and Boxes 6 / G : Balls and Boxes 7 / H : Balls and Boxes 8 / I : Balls and Boxes 9 / J : Balls and Boxes 10 /  
+    K : Balls and Boxes 11 / L : Balls and Boxes 12
 
 
 
@@ -134,7 +136,7 @@
 1. 全域木
     - [A : Minimum Spanning Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_2a.cpp) / B : Minimum-Cost Arborescence
 1. 連結成分
-    - A : Articulation Points / B : Bridges / C : Strongly Connected Components
+    - [A : Articulation Points](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_3a.cpp) / B : Bridges / C : Strongly Connected Components
 1. サイクル
     - [A : Cycle Detection for a Directed Graph](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_4a.cpp) / [B : Topological Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_4b.cpp)
 1. 木
