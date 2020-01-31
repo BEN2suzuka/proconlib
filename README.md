@@ -136,7 +136,7 @@
 1. 全域木
     - [A : Minimum Spanning Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_2a.cpp) / B : Minimum-Cost Arborescence
 1. 連結成分
-    - [A : Articulation Points](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_3a.cpp) / B : Bridges / C : Strongly Connected Components
+    - [A : Articulation Points](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_3a.cpp) / [B : Bridges](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_3b.cpp) / C : Strongly Connected Components
 1. サイクル
     - [A : Cycle Detection for a Directed Graph](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_4a.cpp) / [B : Topological Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_4b.cpp)
 1. 木
