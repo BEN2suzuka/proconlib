@@ -3,10 +3,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// 木の直径
+// 木の直径 : 木の最遠頂点間の距離
 vector<vector<pair<int, int>>> G;
 vector<int> dist;  // ある頂点からの距離
-pair<int, int> fur(0, 0);  // first: ある頂点から最も遠い点, second: その距離
+pair<int, int> fur(0, 0);  // first: ある頂点から最も遠い頂点, second: その距離
 
 void dfs(int current, int parent) {
   for (auto nx : G.at(current)) {
@@ -31,6 +31,6 @@ int main() {
   }
   dfs(0, -1);  // 適当な頂点から DFS
   dist.assign(N, 0);
-  dfs(fur.first, -1);  // 最も遠かった頂点から DFS
+  dfs(fur.first, -1);  // 最も遠かった頂点 (= 木の直径の端点) から DFS
   cout << fur.second << endl;
 }

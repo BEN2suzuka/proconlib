@@ -140,7 +140,7 @@
 1. サイクル
     - [A : Cycle Detection for a Directed Graph](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_4a.cpp) / [B : Topological Sort](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_4b.cpp)
 1. 木
-    - [A : Diameter of a Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_5a.cpp) / B : Height of a Tree / C : Lowest Common Ancestor / D : Range Query on a Tree /  
+    - [A : Diameter of a Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_5a.cpp) / [B : Height of a Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_5b.cpp) / C : Lowest Common Ancestor / D : Range Query on a Tree /  
     E : Range Query on a Tree II
 1. ネットワークフロー
     - A : Maximum Flow / B : Minimum Cost Flow
