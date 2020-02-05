@@ -117,7 +117,7 @@
 1. 順列
     - [A : Traveling Salesman Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_2a.cpp) / B : Chinese Postman Problem / C : Bitonic Traveling Salesman Problem
 1. パターン
-    - A : Largest Square / B : Largest Rectangle / C : Largest Rectangle in a Histogram
+    - [A : Largest Square](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_3a.cpp) / B : Largest Rectangle / C : Largest Rectangle in a Histogram
 1. 数え上げ
     - A : Coin Combination Problem / B : Coin Combination Problem II
 1. 写像12相
