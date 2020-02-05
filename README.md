@@ -122,7 +122,7 @@
     - A : Coin Combination Problem / B : Coin Combination Problem II
 1. 写像12相
     - [A : Balls and Boxes 1](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5a.cpp) / [B : Balls and Boxes 2](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5b.cpp) / [C : Balls and Boxes 3](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5c.cpp) / [D : Balls and Boxes 4](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5d.cpp) / [E : Balls and Boxes 5](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5e.cpp) /  
-    [F : Balls and Boxes 6](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5f.cpp) / G : Balls and Boxes 7 / [H : Balls and Boxes 8](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5h.cpp) / [I : Balls and Boxes 9](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5i.cpp) / J : Balls and Boxes 10 /  
+    [F : Balls and Boxes 6](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5f.cpp) / [G : Balls and Boxes 7](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5g.cpp) / [H : Balls and Boxes 8](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5h.cpp) / [I : Balls and Boxes 9](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5i.cpp) / J : Balls and Boxes 10 /  
     [K : Balls and Boxes 11](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5k.cpp) / L : Balls and Boxes 12
 
 
