@@ -119,7 +119,7 @@
 1. パターン
     - [A : Largest Square](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_3a.cpp) / [B : Largest Rectangle](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_3b.cpp) / [C : Largest Rectangle in a Histogram](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_3c.cpp)
 1. 数え上げ
-    - A : Coin Combination Problem / B : Coin Combination Problem II
+    - [A : Coin Combination Problem](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_4a.cpp) / B : Coin Combination Problem II
 1. 写像12相
     - [A : Balls and Boxes 1](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5a.cpp) / [B : Balls and Boxes 2](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5b.cpp) / [C : Balls and Boxes 3](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5c.cpp) / [D : Balls and Boxes 4](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5d.cpp) / [E : Balls and Boxes 5](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5e.cpp) /  
     [F : Balls and Boxes 6](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5f.cpp) / [G : Balls and Boxes 7](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5g.cpp) / [H : Balls and Boxes 8](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5h.cpp) / [I : Balls and Boxes 9](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5i.cpp) / [J : Balls and Boxes 10](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DPL/dpl_5j.cpp) /  
