@@ -3,6 +3,10 @@
 #### 整数
 - 素数判定
     - [AOJ ALDS1 1_C : Prime Numbers](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1c.cpp)
+- エラトステネスのふるい
+    - [蟻本 素数の個数](https://github.com/BEN2suzuka/proconlib/blob/master/LIB/sieve.cpp)
+- 区間ふるい
+    - [蟻本 区間内の素数の個数](https://github.com/BEN2suzuka/proconlib/blob/master/LIB/segment_sieve.cpp)
 - 素因数分解
     - [AOJ NTL 1_A : Prime Factorize](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1a.cpp)
 - 最大公約数 (GCD)
