@@ -3,16 +3,18 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// 最小全域木 (MST : Minimum Spanning Tree) : 全域木のうち辺の重みの総和が最小
 int V;
 const int INF = 1000000000;
-vector<vector<pair<int, int>>> M;  // first : 頂点, second : 辺の重み
+vector<vector<pair<int, int>>> M;  // first: 頂点, second: 辺の重み
 
+// プリムのアルゴリズム
 int prim() {
-  // first : d[i], second : 頂点
+  // first: d[i], second: 頂点
   priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> PQ;
-  vector<int> color(V);
+  vector<int> color(V);  // 0: 未訪問, 1: MST の候補, 2: MST
   vector<int> d(V, INF);
-  vector<int> p(V, -1);
+  vector<int> p(V, -1);  // p[v] : MST における頂点 v の親 (どこから v に来たか)
   color.at(0) = 1;
   d.at(0) = 0;
   PQ.push(make_pair(d.at(0), 0));
@@ -28,7 +30,7 @@ int prim() {
     sum += f.first;
 
     for (auto cand : M.at(u)) {
-      // u に隣接する頂点を候補に追加
+      // u に隣接する頂点 v を MST の候補に追加
       int v = cand.first;
       if (color.at(v) == 2) continue;
       if (cand.second < d.at(v)) {

@@ -138,7 +138,7 @@
 1. 最短経路
     - [A : Single Source Shortest Path](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_1a.cpp) / [B : Single Source Shortest Path (Negative Edges)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_1b.cpp) / [C : All Pairs Shortest Path](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_1c.cpp)
 1. 全域木
-    - [A : Minimum Spanning Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_2a.cpp) / B : Minimum-Cost Arborescence
+    - [A : Minimum Spanning Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_2a_1.cpp) (Prim) / A : [A : Minimum Spanning Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_2a_2.cpp) (Kruskal) / B : Minimum-Cost Arborescence
 1. 連結成分
     - [A : Articulation Points](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_3a.cpp) / [B : Bridges](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_3b.cpp) / [C : Strongly Connected Components](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_3c.cpp)
 1. サイクル
