@@ -147,7 +147,7 @@
     - [A : Diameter of a Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_5a.cpp) / [B : Height of a Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_5b.cpp) / [C : Lowest Common Ancestor](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_5c.cpp) / [D : Range Query on a Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_5d.cpp) /  
     E : Range Query on a Tree II
 1. ネットワークフロー
-    - A : Maximum Flow / B : Minimum Cost Flow
+    - [A : Maximum Flow](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_GRL/grl_6a.cpp) / B : Minimum Cost Flow
 1. マッチング
     - A : Bipartite Matching
 
