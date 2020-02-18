@@ -5,6 +5,8 @@ using namespace std;
 
 // 最小共通祖先 (LCA : Lowest Common Ancestor)
 // 根付き木の 2 頂点 u, v の共通祖先で最も根から遠い祖先
+
+// Doubling
 vector<vector<int>> G;
 vector<vector<int>> parent;  // parent[k][v] v から親へ 2^k 回辿った頂点 (無ければ -1)
 vector<int> depth;  // 根からの深さ
