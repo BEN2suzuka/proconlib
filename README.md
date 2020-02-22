@@ -99,7 +99,7 @@
 [AOJ データの集合とクエリ処理 (DSL)](https://onlinejudge.u-aizu.ac.jp/courses/library/3/DSL/1) の提出コードです。
 
 1. 集合
-    - [A : Disjoint Set: Union Find Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_1a.cpp) / B : Weighted Union Find Trees
+    - [A : Disjoint Set: Union Find Tree](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_1a.cpp) / [B : Weighted Union Find Trees](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_1b.cpp)
 1. 区間クエリ
     - [A : Range Minimum Query (RMQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2a.cpp) / [B : Range Sum Query (RSQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2b.cpp) / [C : Range Search (kD Tree)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2c.cpp) /  
     [D : Range Update Query (RUQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2d.cpp) / [E : Range Add Query (RAQ)](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2e.cpp) / [F : RMQ and RUQ](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2f.cpp) / [G : RSQ and RAQ](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_DSL/dsl_2g.cpp) /  

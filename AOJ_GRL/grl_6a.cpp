@@ -9,7 +9,7 @@ struct Edge { int to, cap, rev; };  // 行き先, 容量, 逆辺(index)
 vector<vector<Edge>> G;
 vector<bool> used;
 
-// from から to へ向かう辺 (容量 cap) をグラフに追加
+// from から to へ向かう辺 (容量 cap) と逆辺をグラフに追加
 void addEdge(int from, int to, int cap) {
   Edge e1 = { to, cap, (int)G.at(to).size() };
   G.at(from).push_back(e1);

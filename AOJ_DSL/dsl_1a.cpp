@@ -32,13 +32,14 @@ struct UnionFind {
     return root(x) == root(y);
   }
 
-  void merge(int x, int y) {
+  bool merge(int x, int y) {
     x = root(x);
     y = root(y);
-    if (x == y) return;
+    if (x == y) return false;
     if (rank.at(x) < rank.at(y)) swap(x, y);
     if (rank.at(x) == rank.at(y)) rank.at(x)++;
     parent.at(y) = x;
+    return true;
   }
 };
 
