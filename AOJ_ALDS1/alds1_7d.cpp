@@ -3,10 +3,17 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// 木の復元
+// ex.
+// Preorder : [1], 2, 3, 4, 5, 6, 7, 8, 9
+// Inorder  : 3, 2, 5, 4, 6, [1], 8, 7, 9
+// 1 を根とする木は、3 2 5 4 6 の左部分木と 8 7 9 の右部分木に分かれる
+
 int N;
 int pos;
 vector<int> A, B, C;
 
+// Postorder を返す
 void func(int left, int right) {
   if (right - left < 1) return;
   int root = A.at(pos);
