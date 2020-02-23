@@ -18,7 +18,7 @@
 - 最小公倍数 (LCM)
     - [AOJ NTL 1_C : Least Common Multiple](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1c.cpp)
 - 二項係数 (フェルマーの小定理を利用して逆元を計算)
-    - [ABC 034 C - 経路](https://atcoder.jp/contests/abc034/tasks/abc034_c)
+    - [ABC 034 C - 経路](https://github.com/BEN2suzuka/proconlib/blob/master/AtCoder/abc034c.cpp)
 
 #### 探索
 - 深さ優先探索 (DFS)
