@@ -19,6 +19,8 @@
     - [AOJ NTL 1_C : Least Common Multiple](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1c.cpp)
 - 二項係数 (フェルマーの小定理を利用して逆元を計算)
     - [ABC 034 C - 経路](https://github.com/BEN2suzuka/proconlib/blob/master/AtCoder/abc034c.cpp)
+- 二項係数 (n は巨大、k は小さい)
+    - [ABC 156 D - Bouquet](https://github.com/BEN2suzuka/proconlib/blob/master/AtCoder/abc156d.cpp)
 
 #### 探索
 - 深さ優先探索 (DFS)
