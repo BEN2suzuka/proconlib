@@ -9,18 +9,16 @@
     - [AOJ ALDS1 1_C : Prime Numbers](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1c.cpp)
 - エラトステネスのふるい
     - [蟻本 素数の個数](https://github.com/BEN2suzuka/proconlib/blob/master/LIB/sieve.cpp)
-- 区間ふるい
-    - [蟻本 区間内の素数の個数](https://github.com/BEN2suzuka/proconlib/blob/master/LIB/segment_sieve.cpp)
+    - [蟻本 区間内の素数の個数](https://github.com/BEN2suzuka/proconlib/blob/master/LIB/segment_sieve.cpp) (区間ふるい)
 - 素因数分解
     - [AOJ NTL 1_A : Prime Factorize](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1a.cpp)
 - 最大公約数 (GCD)
     - [AOJ ALDS1 1_B : Greatest Common Divisor](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_ALDS1/alds1_1b.cpp)
 - 最小公倍数 (LCM)
     - [AOJ NTL 1_C : Least Common Multiple](https://github.com/BEN2suzuka/proconlib/blob/master/AOJ_NTL/ntl_1c.cpp)
-- 二項係数 (フェルマーの小定理を利用して逆元を計算)
-    - [ABC 034 C - 経路](https://github.com/BEN2suzuka/proconlib/blob/master/AtCoder/abc034c.cpp)
-- 二項係数 (n は巨大、k は小さい)
-    - [ABC 156 D - Bouquet](https://github.com/BEN2suzuka/proconlib/blob/master/AtCoder/abc156d.cpp)
+- 二項係数
+    - [ABC 034 C - 経路](https://github.com/BEN2suzuka/proconlib/blob/master/AtCoder/abc034c.cpp) (フェルマーの小定理を利用して逆元を計算)
+    - [ABC 156 D - Bouquet](https://github.com/BEN2suzuka/proconlib/blob/master/AtCoder/abc156d.cpp) (n は巨大でも k は小さい)
 
 #### 探索
 - 深さ優先探索 (DFS)
