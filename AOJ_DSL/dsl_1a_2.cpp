@@ -3,29 +3,23 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// parent[x] := x の親
+// ただし、x が根のときは、x が属するグループの要素数 * (-1) を持つ
 struct UnionFind {
-  vector<int> parent, rank;
-  
+  vector<int> parent;
+
   UnionFind(int N = 1) {
     init(N);
   }
 
   void init(int N = 1) {
     parent.resize(N);
-    rank.resize(N);
-    for (int i = 0; i < N; i++) {
-      parent.at(i) = i;
-      rank.at(i) = 0;
-    }
+    for (int i = 0; i < N; i++) parent.at(i) = -1;
   }
 
   int root(int x) {
-    if (parent.at(x) == x) return x;
-    else {
-      int r = root(parent.at(x));
-      parent.at(x) = r;
-      return r;
-    }
+    if (parent.at(x) < 0) return x;
+    return parent.at(x) = root(parent.at(x));
   }
 
   bool issame(int x, int y) {
@@ -36,10 +30,15 @@ struct UnionFind {
     x = root(x);
     y = root(y);
     if (x == y) return false;
-    if (rank.at(x) < rank.at(y)) swap(x, y);
-    if (rank.at(x) == rank.at(y)) rank.at(x)++;
+    if (parent.at(x) > parent.at(y)) swap(x, y);
+    parent.at(x) += parent.at(y);
     parent.at(y) = x;
     return true;
+  }
+
+  // x が属するグループの要素数を返す
+  int size(int x) {
+    return -parent.at(root(x));
   }
 };
 
